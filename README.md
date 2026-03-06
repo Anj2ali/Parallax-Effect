@@ -1,4 +1,4 @@
-1. Parallax Effect
+# Parallax Effect
 
 Experience the magic of our captivating Parallax Effect! As you scroll through the webpage, prepare to be mesmerized by the illusion of depth and movement. Parallax scrolling creates an interactive and engaging user experience, as different elements scroll at different speeds, giving a sense of dynamism to the page. The stunning visual effects make the website stand out, leaving a lasting impression on visitors.
 
